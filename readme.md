@@ -1,0 +1,1 @@
+This repo was created along following the course [The Art of Doing: Video Game Creation With Python and Pygame](https://www.udemy.com/course/the-art-of-doing-video-game-creation-with-python-and-pygame)
